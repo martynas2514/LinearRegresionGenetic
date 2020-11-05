@@ -1,1 +1,2 @@
-# LinearRegresionGenetic
+# Linear Regresion using Genetic algorithm
+
